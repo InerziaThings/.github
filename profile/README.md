@@ -1,7 +1,5 @@
 # 📦 InerziaThings for macOS — Smart Inventory, Collections & Home Asset Manager
 
-![InerziaThings Logo](https://static.macupdate.com/products/35179/l/inerziathings-logo.png?v=1638178104)
-
 <div align="center" style="margin:14px 0 18px;">
   <a href="http://inerziathings.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_GET_INERZIATHINGS-steelblue?style=for-the-badge&logo=archive&logoColor=white" alt="Get InerziaThings for macOS">
@@ -66,8 +64,6 @@ The interface is clean and **Mac-native**. Sidebar sources, column views, big pr
 ---
 
 ## 🖼 Screens & Previews
-
-![Grid & Detail View](https://static.macupdate.com/screenshots/320745/m/inerziathings-screenshot.png?v=1638178116)
 
 ![Item Detail with Photos](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b7/f4/59/b7f45989-7eee-8b34-a3ef-3dcebda16655/1308adc6-ca07-41f5-ab7b-e9f9ff371887_2.png/643x0w.jpg)
 
