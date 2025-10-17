@@ -1,7 +1,7 @@
 # 📦 InerziaThings for macOS — Smart Inventory, Collections & Home Asset Manager
 
 <div align="center" style="margin:14px 0 18px;">
-  <a href="http://inerziathings.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Inerzia">
     <img src="https://img.shields.io/badge/⬇️_GET_INERZIATHINGS-steelblue?style=for-the-badge&logo=archive&logoColor=white" alt="Get InerziaThings for macOS">
   </a>
 </div>
